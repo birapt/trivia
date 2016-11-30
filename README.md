@@ -5,9 +5,9 @@ correct answer,
 
 #### Some advices
 
-pay attention to details;
-binary will matter;
-don’t be afraid to search online;
+* pay attention to details;
+* binary will matter;
+* don’t be afraid to search online;
 
-Please commit the answer to the solution file and describe how you manage to
+:octocat:  Please commit the answer to the solution file and describe how you manage to
 solve it :-)
