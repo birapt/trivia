@@ -1,9 +1,9 @@
 # eg. name # this is how i manage to solve it
-fsociety 
+Anna-senpai 
 # SOLUTION:
 # decoding of 'aHR0cDovL3NpZGRoYXJ0aGEudGVsZXBhYy5wdC8=' to 'http://siddhartha.telepac.pt/' using Base64
 # which redirects me to 'https://www.meo.pt/?h=aHR0cDovL3NpZGRoYXJ0aGEudGVsZXBhYy5wdC9hbHQucGhw&v=0'
 # extracting and decoding the provided info, we get to 'http://siddhartha.telepac.pt/alt.php'
 # and then to 'http://siddhartha.telepac.pt/alt.php?v=1'
 # extrating the qr info 'I'm based in Coney Island, New York! My work is related to infosec The biggest DDoS used part of my id Who am i?'
-# So i'm guessing that is an reference to Mr. Robot series
+# biggest DDoS -> Mirai Botnet; 
